@@ -40,7 +40,7 @@ hasCJKLanguage = true
   # dark mode
   # defaultDark = true
   # backgroundDark = "#222"
-  backgroundImageDark = "https://image.nzts.top/img/default.png"
+  backgroundImageDark = "http://image.nzts.top/img/default.png"
   darkLinkColor = "darkseagreen"
   darkNav = true
   dark404 = true
@@ -48,7 +48,7 @@ hasCJKLanguage = true
   images = ["me/background.jpg"]
   author = "yzang"
   description = "yzang 的生活记录~"
-  avatar = "https://image.nzts.top/img/nzt_blog.jpg" # 设置头像
+  avatar = "http://image.nzts.top/img/nzt_blog.jpg" # 设置头像
   headerTitle = "yzang's Blog"
   motto = "叶底藏花，亦是大庭叶藏"
   # maxTags = 5
