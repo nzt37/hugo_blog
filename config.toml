@@ -1,4 +1,4 @@
-baseURL = "https://blog.nzts.top/" # 你的域名，很重要，错误的话部署到线上将页面异常
+# baseURL = "https://blog.nzts.top/" 
 languageCode = "zh-Hans"
 defaultContentLanguage = "zh"
 title = "yzang's Blog" # 你的博客名称
